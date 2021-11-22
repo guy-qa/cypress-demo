@@ -1,0 +1,10 @@
+{   
+"baseUrl": "http://localhost:3000",
+"testFiles": "**/*.spec.js",
+"reporter": "junit",
+"browser": "chrome",
+"env": {
+    "foo": "bar",
+    "baz": "quux"
+  }
+}
